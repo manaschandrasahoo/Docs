@@ -67,11 +67,14 @@ http://YOUR-SERVER-PUBLIC-IP:8080
 - Create another admin user id
 
 ### Test Jenkins Jobs
-1. Create ìnew itemî
-1. Enter an item name ñ `My-First-Project`
+1. Create ‚Äúnew item‚Äù
+1. Enter an item name ‚Äì `My-First-Project`
    - Chose `Freestyle` project
 1. Under Build section
 	Execute shell : echo "Welcome to Jenkins Demo"
 1. Save your job 
 1. Build job
 1. Check "console output"
+
+
+if required follow this link better : https://linuxize.com/post/how-to-install-jenkins-on-centos-7/
